@@ -1,0 +1,2 @@
+FileLogger - Event Logged: User logged in
+FileLogger - Event Logged: File uploaded
